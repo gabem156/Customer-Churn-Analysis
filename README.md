@@ -78,3 +78,7 @@ The analysis explored:
 - Investigate pricing concerns among customers with high monthly charges.
 - Develop targeted retention campaigns for high-risk customer segments.
 - Enhance customer support strategies for customers with shorter tenure.
+
+## Conclusion
+
+This project demonstrates how data analytics can be used to identify customer churn drivers and support data-driven business decisions. Through data cleaning, visualization, and exploratory analysis, the project provides actionable insights that can help improve customer retention strategies.
